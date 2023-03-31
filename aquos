@@ -1,0 +1,5 @@
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.karadamate
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.sharpdatabackup
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopar
+adb shell pm uninstall -k --user 0 jp.co.sharp.exapps
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.shinstructionma
