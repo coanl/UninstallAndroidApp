@@ -7,3 +7,4 @@ adb shell pm uninstall -k --user 0 jp.co.sharp.android.iwnnime.ml
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.shinstructionmanual04lc
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.shmediaplayer
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.shframecapture
+adb shell pm uninstall -k --user 0 com.android.dialer
