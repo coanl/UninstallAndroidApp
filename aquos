@@ -1,6 +1,8 @@
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.karadamate
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.sharpdatabackup
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopar
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopar.internalcontent
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopar.internalcontent2
 adb shell pm uninstall -k --user 0 jp.co.sharp.exapps
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.shinstructionma
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.iwnnime.ml
@@ -9,3 +11,7 @@ adb shell pm uninstall -k --user 0 jp.co.sharp.android.shmediaplayer
 adb shell pm uninstall -k --user 0 jp.co.sharp.android.shframecapture
 adb shell pm uninstall -k --user 0 com.android.dialer
 adb shell pm uninstall -k --user 0 com.android.email
+adb shell pm uninstall -k --user 0 com.android.documentsui
+adb shell pm uninstall -k --user 0 sharp.jp.android.makersiteappli
+adb shell pm uninstall -k --user 0 jp.pixela.stationtv.localtuner.full.app
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.soundmemo
