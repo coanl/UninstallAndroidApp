@@ -1,29 +1,33 @@
-adb shell pm -k --user 0 com.android.contacts
-adb shell pm -k --user 0 com.nttdocomo.android.initialization
-adb shell pm -k --user 0 com.nttdocomo.android.applicationmanager
-adb shell pm -k --user 0 com.nttdocomo.android.idmanager
-adb shell pm -k --user 0 com.nttdocomo.android.store
-adb shell pm -k --user 0 com.nttdocomo.android.dmenu2
-adb shell pm -k --user 0 com.nttdocomo.android.mascot
-adb shell pm -k --user 0 com.nttdocomo.android.devicehelp
-adb shell pm -k --user 0 com.nttdocomo.android.remotelock
-adb shell pm -k --user 0 com.nttdocomo.android.phonemotion
-adb shell pm -k --user 0 com.nttdocomo.android.schedulememo
-adb shell pm -k --user 0 com.nttdocomo.android.databackup
-adb shell pm -k --user 0 com.nttdocomo.android.cloudset
-adb shell pm -k --user 0 com.nttdocomo.android.docomoset
-adb shell pm -k --user 0 com.nttdocomo.android.sdcardbackup
-adb shell pm -k --user 0 jp.co.nttdocomo.carriermail
-adb shell pm -k --user 0 com.nttdocomo.android.networkservice
-adb shell pm -k --user 0 com.nttdocomo.android.mymagazine
-adb shell pm -k --user 0 jp.co.nttdocomo.saigaiban
-adb shell pm -k --user 0 com.nttdocomo.android.wipe
-adb shell pm -k --user 0 jp.co.nttdocomo.anshinmode
-adb shell pm -k --user 0 com.nttdocomo.android.applicationmanager
-adb shell pm -k --user 0 com.nttdocomo.android.pf.dcmippushaggregator
-adb shell pm -k --user 0 com.nttdocomo.android.accountauthenticator
-adb shell pm -k --user 0 com.nttdocomo.android.accountwipe
-adb shell pm -k --user 0 com.nttdocomo.android.dpoint
-adb shell pm -k --user 0 com.nttdocomo.keitai.payment
-adb shell pm -k --user 0 jp.co.nttdocomo.areainfo
-adb shell pm -k --user 0 com.nttdocomo.android.homezozo
+pm uninstall -k --user 0 com.android.contacts
+pm uninstall -k --user 0 com.nttdocomo.android.initialization
+pm uninstall -k --user 0 com.nttdocomo.android.applicationmanager
+pm uninstall -k --user 0 com.nttdocomo.android.idmanager
+pm uninstall -k --user 0 com.nttdocomo.android.store
+pm uninstall -k --user 0 com.nttdocomo.android.dmenu2
+pm uninstall -k --user 0 com.nttdocomo.android.mascot
+pm uninstall -k --user 0 com.nttdocomo.android.devicehelp
+pm uninstall -k --user 0 com.nttdocomo.android.remotelock
+pm uninstall -k --user 0 com.nttdocomo.android.phonemotion
+pm uninstall -k --user 0 com.nttdocomo.android.schedulememo
+pm uninstall -k --user 0 com.nttdocomo.android.databackup
+pm uninstall -k --user 0 com.nttdocomo.android.cloudset
+pm uninstall -k --user 0 com.nttdocomo.android.docomoset
+pm uninstall -k --user 0 com.nttdocomo.android.sdcardbackup
+pm uninstall -k --user 0 jp.co.nttdocomo.carriermail
+pm uninstall -k --user 0 com.nttdocomo.android.networkservice
+pm uninstall -k --user 0 com.nttdocomo.android.mymagazine
+pm uninstall -k --user 0 jp.co.nttdocomo.saigaiban
+pm uninstall -k --user 0 com.nttdocomo.android.wipe
+pm uninstall -k --user 0 jp.co.nttdocomo.anshinmode
+pm uninstall -k --user 0 com.nttdocomo.android.applicationmanager
+pm uninstall -k --user 0 com.nttdocomo.android.pf.dcmippushaggregator
+pm uninstall -k --user 0 com.nttdocomo.android.accountauthenticator
+pm uninstall -k --user 0 com.nttdocomo.android.accountwipe
+pm uninstall -k --user 0 com.nttdocomo.android.dpoint
+pm uninstall -k --user 0 com.nttdocomo.keitai.payment
+pm uninstall -k --user 0 jp.co.nttdocomo.areainfo
+pm uninstall -k --user 0 com.nttdocomo.android.homezozo
+pm uninstall -k --user 0 com.nttdocomo.android.mediaplayer
+pm uninstall -k --user 0 com.nttdocomo.android.iconcier
+pm uninstall -k --user 0 com.nttdocomo.android.iconcier_contents
+pm uninstall -k --user 0 com.nttdocomo.android.dhome
