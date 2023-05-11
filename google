@@ -14,7 +14,6 @@ adb shell pm uninstall -k --user 0 com.google.android.tts
 adb shell pm uninstall -k --user 0 com.google.android.onetimeinitializer
 adb shell pm uninstall -k --user 0 com.google.android.videos
 adb shell pm uninstall -k --user 0 com.google.android.gms
-adb shell pm uninstall -k --user 0 com.android.vending
 adb shell pm uninstall -k --user 0 com.google.android.music
 adb shell pm uninstall -k --user 0 com.google.android.partnersetup
 adb shell pm uninstall -k --user 0 com.google.android.syncadapters.contacts
