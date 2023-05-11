@@ -4,7 +4,6 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.docs.editors.slides
 adb shell pm uninstall -k --user 0 com.google.android.apps.docs.editors.docs
 adb shell pm uninstall -k --user 0 com.google.android.apps.photos
 adb shell pm uninstall -k --user 0 com.google.android.apps.docs
-adb shell pm uninstall -k --user 0 com.android.chrome
 adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall -k --user 0 com.google.android.gm
 adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
@@ -13,7 +12,6 @@ adb shell pm uninstall -k --user 0 com.google.android.gsf
 adb shell pm uninstall -k --user 0 com.google.android.tts
 adb shell pm uninstall -k --user 0 com.google.android.onetimeinitializer
 adb shell pm uninstall -k --user 0 com.google.android.videos
-adb shell pm uninstall -k --user 0 com.google.android.gms
 adb shell pm uninstall -k --user 0 com.google.android.music
 adb shell pm uninstall -k --user 0 com.google.android.partnersetup
 adb shell pm uninstall -k --user 0 com.google.android.syncadapters.contacts
