@@ -8,7 +8,6 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall -k --user 0 com.google.android.gm
 adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 adb shell pm uninstall -k --user 0 com.google.android.backuptransport
-adb shell pm uninstall -k --user 0 com.google.android.gsf
 adb shell pm uninstall -k --user 0 com.google.android.tts
 adb shell pm uninstall -k --user 0 com.google.android.onetimeinitializer
 adb shell pm uninstall -k --user 0 com.google.android.videos
